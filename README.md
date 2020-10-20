@@ -61,12 +61,12 @@
 * [x] Add the appropriate Spring dependencies to `pom.xml`
 * [x] Update the project to use Spring annotation configuration
 
-* [ ] Create a test-specific Spring configuration class
-* [ ] Create a new concrete implementation of the project's repository interface that uses `JdbcTemplate`
-* [ ] Start with empty method bodies that return a default value
-* [ ] Generate tests for the `JdbcTemplate` repository and complete methods one at a time with accompanying tests
-* [ ] Create a test database to safely execute tests and establish known good state
-* [ ] Implement the repository methods while writing tests
+* [x] Create a test-specific Spring configuration class
+* [x] Create a new concrete implementation of the project's repository interface that uses `JdbcTemplate`
+  * [x] Start with empty method bodies that return a default value
+* [x] Generate tests for the `JdbcTemplate` repository and complete methods one at a time with accompanying tests
+* [x] Create a test database to safely execute tests and establish known good state
+* [x] Implement the repository methods while writing tests
 
 ### Domain Layer
 
